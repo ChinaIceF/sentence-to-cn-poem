@@ -40,7 +40,7 @@ X:/some_folder/XXX/sentence-to-cn-poem/main.py
 
 以下是一些真实实例</p>
 ```
-X:/some_folder/XXX/sentence-t-cn-poem/estimate.py
+X:/some_folder/XXX/sentence-to-cn-poem/estimate.py
 
 >> 古来征战几人回
 （程序输出）0.4873334578602228
