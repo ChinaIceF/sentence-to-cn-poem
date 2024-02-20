@@ -54,7 +54,7 @@ X:/some_folder/XXX/sentence-to-cn-poem/estimate.py
 
 # 其他
 
-如果你对本项目感兴趣，欢迎加入我的讨论 QQ 群 
+如果你对本项目感兴趣，欢迎加入我的讨论 QQ 群 851896475
 
 
 
