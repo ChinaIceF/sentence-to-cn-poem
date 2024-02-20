@@ -52,7 +52,9 @@ X:/some_folder/XXX/sentence-to-cn-poem/estimate.py
 （程序输出）0.0  # 概率太小了，超出浮点数精度
 ```
 
+# 其他
 
+如果你对本项目感兴趣，欢迎加入我的讨论 QQ 群 
 
 
 
