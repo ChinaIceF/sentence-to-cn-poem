@@ -55,7 +55,7 @@ X:/some_folder/XXX/sentence-to-cn-poem/estimate.py
 
 # 其他
 
-如果你对本项目感兴趣，欢迎加入我的讨论 QQ 群 851896475，或关注我的[哔哩哔哩主页](https://space.bilibili.com/390832893)
+如果你对本项目感兴趣，欢迎关注我的[哔哩哔哩主页](https://space.bilibili.com/390832893)
 
 
 
